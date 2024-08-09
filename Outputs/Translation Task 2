@@ -1,0 +1,265 @@
+>NC_000006.12:31575565-31578336 TNF [organism=Homo sapiens] [GeneID=7124] [chromosome=6]
+
+1     AGC CGT CGT AGC CTG AGC AAA GAT AGC CGT GGC CCG GCG AAA CGT   45
+1     Ser Arg Arg Ser Leu Ser Lys Asp Ser Arg Gly Pro Ala Lys Arg   15
+
+46    GAA CGT AGC AAC TAT CGT CCG CCG CTG AAA ACC ACC CTG CGT CGT   90
+16    Glu Arg Ser Asn Tyr Arg Pro Pro Leu Lys Thr Thr Leu Arg Arg   30
+
+91    CAT ATT CCG TAA CAG GCG GCG CGT CAG GTG CTG TTT CTG AGC CAT   135
+31    His Ile Pro End Gln Ala Ala Arg Gln Val Leu Phe Leu Ser His   45
+
+136   ACC GAT CCG CGT CTG CAT CCG CTG AGC CCG GGC AAA GAT ACC atg   180
+46    Thr Asp Pro Arg Leu His Pro Leu Ser Pro Gly Lys Asp Thr Met   60
+
+181   AGC ACC GAA AGC atg ATT CGT GAT GTG GAA CTG GCG GAA GAA GCG   225
+61    Ser Thr Glu Ser Met Ile Arg Asp Val Glu Leu Ala Glu Glu Ala   75
+
+226   CTG CCG AAA AAA ACC GGC GGC CCG CAG GGC AGC CGT CGT TGC CTG   270
+76    Leu Pro Lys Lys Thr Gly Gly Pro Gln Gly Ser Arg Arg Cys Leu   90
+
+271   TTT CTG AGC CTG TTT AGC TTT CTG ATT GTG GCG GGC GCG ACC ACC   315
+91    Phe Leu Ser Leu Phe Ser Phe Leu Ile Val Ala Gly Ala Thr Thr   105
+
+316   CTG TTT TGC CTG CTG CAT TTT GGC GTG ATT GGC CCG CAG CGT GAA   360
+106   Leu Phe Cys Leu Leu His Phe Gly Val Ile Gly Pro Gln Arg Glu   120
+
+361   GAA GTG AGC GCG TGG CCG GCG TTT ATT CAT AGC CCG ACC CAG GGC   405
+121   Glu Val Ser Ala Trp Pro Ala Phe Ile His Ser Pro Thr Gln Gly   135
+
+406   GAA atg GAA ACC CAG GAA CGT GAA CGT GAT GGC atg GGC GAA CGT   450
+136   Glu Met Glu Thr Gln Glu Arg Glu Arg Asp Gly Met Gly Glu Arg   150
+
+451   TGC GCG CTG ATT GGC CGT GAT GGC GAA AAA AAA ACC TGG CGT AAA   495
+151   Cys Ala Leu Ile Gly Arg Asp Gly Glu Lys Lys Thr Trp Arg Lys   165
+
+496   ACC GGC atg CAG AAA GAA atg TGG CAG GAA atg GGC AAA CGT GAA   540
+166   Thr Gly Met Gln Lys Glu Met Trp Gln Glu Met Gly Lys Arg Glu   180
+
+541   CGT GAA CGT TGG CGT GAT CGT atg AGC GGC ACC TGG AAA GTG CTG   585
+181   Arg Glu Arg Trp Arg Asp Arg Met Ser Gly Thr Trp Lys Val Leu   195
+
+586   ACC AAA TGC GTG TGG AGC GAA TAA atg AAC GAA TAA atg AAC AAA   630
+196   Thr Lys Cys Val Trp Ser Glu End Met Asn Glu End Met Asn Lys   210
+
+631   CAG ATT TAT AAA TAA GAT atg GAA ACC GAT GTG GGC TGC GAA AAA   675
+211   Gln Ile Tyr Lys End Asp Met Glu Thr Asp Val Gly Cys Glu Lys   225
+
+676   CGT GAT GGC GGC CGT AAC AAA TAA TAT GAA TAA CGT TGG TAA GAT   720
+226   Arg Asp Gly Gly Arg Asn Lys End Tyr Glu End Arg Trp End Asp   240
+
+721   CGT AAA AGC GGC AAA TAT GAT AGC TAA GGC GAA CGT TGG GGC CGT   765
+241   Arg Lys Ser Gly Lys Tyr Asp Ser End Gly Glu Arg Trp Gly Arg   255
+
+766   TAA GGC GAA AAA AAA ATT GGC TGC CTG GCG CAT CGT CGT CAT AGC   810
+256   End Gly Glu Lys Lys Ile Gly Cys Leu Ala His Arg Arg His Ser   270
+
+811   GGC AAA GAA CTG CTG AAC GCG TGG AAA GTG AAC ACC CAG atg AAC   855
+271   Gly Lys Glu Leu Leu Asn Ala Trp Lys Val Asn Thr Gln Met Asn   285
+
+856   GGC GAA CGT AAA CCG GAT ACC AGC GGC CTG CGT GCG CAG GCG CGT   900
+286   Gly Glu Arg Lys Pro Asp Thr Ser Gly Leu Arg Ala Gln Ala Arg   300
+
+901   CAG GCG GCG AGC TGC AGC AGC TTT AAA GGC GAT AGC CTG GAT GTG   945
+301   Gln Ala Ala Ser Cys Ser Ser Phe Lys Gly Asp Ser Leu Asp Val   315
+
+946   AAC CAT AGC CCG AGC CCG CAG CAG TTT CCG CGT GAT CTG AGC CTG   990
+316   Asn His Ser Pro Ser Pro Gln Gln Phe Pro Arg Asp Leu Ser Leu   330
+
+991   ATT AGC CCG CTG GCG CAG GCG GTG AGC AAA TGC CTG CAG ACC AGC   1035
+331   Ile Ser Pro Leu Ala Gln Ala Val Ser Lys Cys Leu Gln Thr Ser   345
+
+1036  TTT CTG ATT CTG GGC CTG GGC CTG GGC GTG GGC CTG GTG CCG GTG   1080
+346   Phe Leu Ile Leu Gly Leu Gly Leu Gly Val Gly Leu Val Pro Val   360
+
+1081  TGG AAA CAG TGG GGC AAA TTT AAA GTG CTG GTG CTG GGC GAA GAT   1125
+361   Trp Lys Gln Trp Gly Lys Phe Lys Val Leu Val Leu Gly Glu Asp   375
+
+1126  GGC TGG CGT TAA AAA TAA GGC GGC ATT TTT TAA GAA GTG TAA GGC   1170
+376   Gly Trp Arg End Lys End Gly Gly Ile Phe End Glu Val End Gly   390
+
+1171  AGC CAG CTG TTT CTG TTT AGC CTG CTG TTT CGT ATT ATT TTT AGC   1215
+391   Ser Gln Leu Phe Leu Phe Ser Leu Leu Phe Arg Ile Ile Phe Ser   405
+
+1216  AAC CCG GAA TAA CAG GCG TGC AGC CCG TGC TGC CGT TAA GAA CTG   1260
+406   Asn Pro Glu End Gln Ala Cys Ser Pro Cys Cys Arg End Glu Leu   420
+
+1261  TAA GGC TGC GTG CTG GAA CTG GGC GGC CTG GGC TTT GGC GAT TAA   1305
+421   End Gly Cys Val Leu Glu Leu Gly Gly Leu Gly Phe Gly Asp End   435
+
+1306  AGC CCG GCG GAT GGC CGT CAG AAC CTG GAA ACC atg TAA GAA GGC   1350
+436   Ser Pro Ala Asp Gly Arg Gln Asn Leu Glu Thr Met End Glu Gly   450
+
+1351  CTG GCG GAA CTG AAA GGC CGT GTG GAA GAA CAG CAT CGT CCG TAA   1395
+451   Leu Ala Glu Leu Lys Gly Arg Val Glu Glu Gln His Arg Pro End   465
+
+1396  TGG GAT ACC CAG AAC GTG atg GCG CGT TGG GAT GTG GGC TAA CAG   1440
+466   Trp Asp Thr Gln Asn Val Met Ala Arg Trp Asp Val Gly End Gln   480
+
+1441  ACC GAA CGT ACC GGC ACC GGC TGC GGC GTG GGC CGT GCG CGT GGC   1485
+481   Thr Glu Arg Thr Gly Thr Gly Cys Gly Val Gly Arg Ala Arg Gly   495
+
+1486  CCG GGC TGC GGC GAA TAA ACC GAT atg GCG ACC CTG ACC CTG CTG   1530
+496   Pro Gly Cys Gly Glu End Thr Asp Met Ala Thr Leu Thr Leu Leu   510
+
+1531  AGC CTG AGC CCG AGC CTG CAG CAG ACC CTG AAA CTG CGT GGC AGC   1575
+511   Ser Leu Ser Pro Ser Leu Gln Gln Thr Leu Lys Leu Arg Gly Ser   525
+
+1576  AGC AGC GGC TAA ACC GCG GGC CCG atg CCG AGC TGG CCG atg GCG   1620
+526   Ser Ser Gly End Thr Ala Gly Pro Met Pro Ser Trp Pro Met Ala   540
+
+1621  TGG AGC TAA GAA ATT ACC AGC TGG TGG TGC CAT CAG CGT GCG TGC   1665
+541   Trp Ser End Glu Ile Thr Ser Trp Trp Cys His Gln Arg Ala Cys   555
+
+1666  ACC AGC AGC ACC CCG CGT AGC AGC AGC CGT GCG AAA GCG GCG CCG   1710
+556   Thr Ser Ser Thr Pro Arg Ser Ser Ser Arg Ala Lys Ala Ala Pro   570
+
+1711  CCG CCG atg TGC AGC AGC CCG ACC CCG AGC GCG GCG AGC CCG AGC   1755
+571   Pro Pro Met Cys Ser Ser Pro Thr Pro Ser Ala Ala Ser Pro Ser   585
+
+1756  CCG ACC CGT CCG CGT AGC ACC AGC AGC CTG CCG AGC CGT GCG CCG   1800
+586   Pro Thr Arg Pro Arg Ser Thr Ser Ser Leu Pro Ser Arg Ala Pro   600
+
+1801  GCG CGT GGC CGT CCG CAG CGT GGC CTG CGT CCG AGC CCG GGC atg   1845
+601   Ala Arg Gly Arg Pro Gln Arg Gly Leu Arg Pro Ser Pro Gly Met   615
+
+1846  AGC CCG AGC ATT TGG GAA GGC AGC AGC AGC TGG CGT CGT GTG ACC   1890
+616   Ser Pro Ser Ile Trp Glu Gly Ser Ser Ser Trp Arg Arg Val Thr   630
+
+1891  GAT AGC GCG CTG CGT AGC ATT GGC CCG ACC ATT AGC ACC CTG CCG   1935
+631   Asp Ser Ala Leu Arg Ser Ile Gly Pro Thr Ile Ser Thr Leu Pro   645
+
+1936  AGC CTG GGC CGT AGC ACC CTG GGC AGC CTG CCG TGC GAA GAA GAT   1980
+646   Ser Leu Gly Arg Ser Thr Leu Gly Ser Leu Pro Cys Glu Glu Asp   660
+
+1981  GAA CAT CCG ACC TTT CCG AAC GCG AGC CCG GCG CCG ATT CCG CTG   2025
+661   Glu His Pro Thr Phe Pro Asn Ala Ser Pro Ala Pro Ile Pro Leu   675
+
+2026  CTG CCG CCG CCG AGC GAT ACC CTG AAC CTG TTT TGG CTG AAA AAA   2070
+676   Leu Pro Pro Pro Ser Asp Thr Leu Asn Leu Phe Trp Leu Lys Lys   690
+
+2071  CGT ATT GGC GGC CTG GGC AGC GAA CCG AAA CTG CGT ACC CTG AGC   2115
+691   Arg Ile Gly Gly Leu Gly Ser Glu Pro Lys Leu Arg Thr Leu Ser   705
+
+2116  AAC AAA ACC ACC ACC AGC AAA CCG GGC ATT CAG GAA TGC GTG GCG   2160
+706   Asn Lys Thr Thr Thr Ser Lys Pro Gly Ile Gln Glu Cys Val Ala   720
+
+2161  TGC ACC GTG AAA TGC TGG CAG CCG CTG CGT ATT CAG ACC GGC GCG   2205
+721   Cys Thr Val Lys Cys Trp Gln Pro Leu Arg Ile Gln Thr Gly Ala   735
+
+2206  AGC CGT ACC CAT TGG GGC CTG CAG CTG TAA AGC CTG ACC AGC GGC   2250
+736   Ser Arg Thr His Trp Gly Leu Gln Leu End Ser Leu Thr Ser Gly   750
+
+2251  ATT TGG CGT CCG GGC AGC CTG TGG TTT TGG CCG GAA TGC TGC CGT   2295
+751   Ile Trp Arg Pro Gly Ser Leu Trp Phe Trp Pro Glu Cys Cys Arg   765
+
+2296  ACC TAA GAA GAT CTG ACC TAA AAA CTG ACC CAG GTG GAT CTG CGT   2340
+766   Thr End Glu Asp Leu Thr End Lys Leu Thr Gln Val Asp Leu Arg   780
+
+2341  CCG AGC AGC CTG CAG atg TTT CCG GAT TTT CTG GAA ACC CGT AGC   2385
+781   Pro Ser Ser Leu Gln Met Phe Pro Asp Phe Leu Glu Thr Arg Ser   795
+
+2386  CCG GCG CTG CCG atg GAA CCG GCG CCG AGC ATT TAT GTG TGC ACC   2430
+796   Pro Ala Leu Pro Met Glu Pro Ala Pro Ser Ile Tyr Val Cys Thr   810
+
+2431  TGC GAT TAT CTG CTG TTT ATT TAT TAT CTG TTT ATT TAT CGT TAA   2475
+811   Cys Asp Tyr Leu Leu Phe Ile Tyr Tyr Leu Phe Ile Tyr Arg End   825
+
+2476  atg TAT CTG TTT GGC CGT CCG GGC TAT CCG GGC GGC CCG AAC GTG   2520
+826   Met Tyr Leu Phe Gly Arg Pro Gly Tyr Pro Gly Gly Pro Asn Val   840
+
+2521  GGC GCG GCG CTG GCG CAG ACC TGC TTT CCG TAA AAA CGT AGC TAA   2565
+841   Gly Ala Ala Leu Ala Gln Thr Cys Phe Pro End Lys Arg Ser End   855
+
+2566  ACC ATT GGC TGC AGC CAT GTG GCG CCG TGG CCG CTG TGC CTG CTG   2610
+856   Thr Ile Gly Cys Ser His Val Ala Pro Trp Pro Leu Cys Leu Leu   870
+
+2611  CTG ATT atg TTT TTT AAA ATT TTT ATT TAA CTG AGC TGC CTG AAC   2655
+871   Leu Ile Met Phe Phe Lys Ile Phe Ile End Leu Ser Cys Leu Asn   885
+
+2656  AAC GCG GAT CTG GTG ACC AAC TGC CAT AGC CTG CTG AGC CTG TGC   2700
+886   Asn Ala Asp Leu Val Thr Asn Cys His Ser Leu Leu Ser Leu Cys   900
+
+2701  AGC CCG GGC GAA CTG TGC CTG TAA AGC CCG TAT TAT AGC GTG GCG   2745
+901   Ser Pro Gly Glu Leu Cys Leu End Ser Pro Tyr Tyr Ser Val Ala   915
+
+2746  CGT AAC AAA GTG TGC CTG GAA AAA AAA   2772
+916   Arg Asn Lys Val Cys Leu Glu Lys Lys 
+
+
+
+Each codon is read as left nucleotide, top nucleotide, right nucleotide
+Each entry is organized as follows:
+   The number of occurrences of the codon in the sequence
+   Preference of that codon in organism represented by the codon table
+     (as a fraction of all codons coding for the same amino acid)
+   Three-letter code for the amino acid coded for according to the codon table
+
+   |A     C     G     T     |
+-----------------------------
+ A |45    0     0     0     |A
+   |0.76  0.12  0.04  0.07  |
+   |Lys   Thr   Arg   Ile   |
+-----------------------------
+ A |19    56    91    0     |C
+   |0.61  0.43  0.27  0.46  |
+   |Asn   Thr   Ser   Ile   |
+-----------------------------
+ A |0     0     0     23    |G
+   |0.24  0.23  0.03  1     |
+   |Lys   Thr   Arg   Met   |
+-----------------------------
+ A |0     0     0     29    |T
+   |0.39  0.21  0.13  0.47  |
+   |Asn   Thr   Ser   Ile   |
+-----------------------------
+ C |0     0     0     0     |A
+   |0.31  0.2   0.05  0.03  |
+   |Gln   Pro   Arg   Leu   |
+-----------------------------
+ C |0     0     0     0     |C
+   |0.48  0.1   0.37  0.1   |
+   |His   Pro   Arg   Leu   |
+-----------------------------
+ C |34    72    0     96    |G
+   |0.69  0.55  0.08  0.55  |
+   |Gln   Pro   Arg   Leu   |
+-----------------------------
+ C |14    0     73    0     |T
+   |0.52  0.16  0.42  0.1   |
+   |His   Pro   Arg   Leu   |
+-----------------------------
+ G |51    0     0     0     |A
+   |0.7   0.22  0.09  0.17  |
+   |Glu   Ala   Gly   Val   |
+-----------------------------
+ G |0     0     79    0     |C
+   |0.41  0.25  0.4   0.2   |
+   |Asp   Ala   Gly   Val   |
+-----------------------------
+ G |0     47    0     32    |G
+   |0.3   0.34  0.13  0.34  |
+   |Glu   Ala   Gly   Val   |
+-----------------------------
+ G |30    0     0     0     |T
+   |0.59  0.19  0.38  0.29  |
+   |Asp   Ala   Gly   Val   |
+-----------------------------
+ T |31    0     0     0     |A
+   |0.62  0.12  0.3   0.11  |
+   |End   Ser   End   Leu   |
+-----------------------------
+ T |0     0     33    0     |C
+   |0.47  0.17  0.57  0.49  |
+   |Tyr   Ser   Cys   Phe   |
+-----------------------------
+ T |0     0     27    0     |G
+   |0.09  0.13  1     0.11  |
+   |End   Ser   Trp   Leu   |
+-----------------------------
+ T |13    0     0     29    |T
+   |0.53  0.19  0.43  0.51  |
+   |Tyr   Ser   Cys   Phe   |
+-----------------------------
+
+
